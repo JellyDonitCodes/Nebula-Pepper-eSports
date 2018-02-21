@@ -2,26 +2,16 @@
 
 Welcome! This is the official website of Nebula Pepper eSports! We can't wait for you to join the Spicy Nebula family and be able to compete in our monthly Brawlhalla events and some community events. Thankyou so much for visiting this site so please, consider becoming a meber of the Spicy Nebula family!
 
-### Markdown
+### Community Events!
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+This is the part of Nebula Pepper's official site where we tell you what events members of the team will be playing in and the ones that our team will be hosting so please have a look at them and maybe you could join one and compete with us also!
 
 ```markdown
-Syntax highlighted code block
+Events will be listed in order of events!
 
-# Header 1
-## Header 2
-### Header 3
+# March 18th, 2018: Brawlhalla TRIX 1v1 tournaments!
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+thats all for now! But this list will be updated soon!
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
