@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## Nebula Pepper Official eSports!
 
-You can use the [editor on GitHub](https://github.com/JellyDonitCodes/Nebula-Pepper-eSports/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Welcome! This is the official website of Nebula Pepper eSports! We can't wait for you to join the Spicy Nebula family and be able to compete in our monthly Brawlhalla events and some community events. Thankyou so much for visiting this site so please, consider becoming a meber of the Spicy Nebula family!
 
 ### Markdown
 
